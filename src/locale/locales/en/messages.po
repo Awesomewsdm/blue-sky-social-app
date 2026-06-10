@@ -18,7 +18,7 @@ msgstr ""
 msgid "\"{interestsDisplayName}\" category (active)"
 msgstr ""
 
-#: src/components/dms/getMessageInfo.ts:66
+#: src/components/dms/getMessageInfo.ts:69
 msgid "(contains embedded content)"
 msgstr ""
 
@@ -652,7 +652,7 @@ msgid "{name} reacted {0} to {target}"
 msgstr "{name} reacted {0} to {target}"
 
 #. When the last message in a group chat came from someone other than you.
-#: src/components/dms/getMessageInfo.ts:50
+#: src/components/dms/getMessageInfo.ts:53
 msgid "{name}: {message}"
 msgstr "{name}: {message}"
 
@@ -7919,8 +7919,8 @@ msgstr "Open chat"
 msgid "Open chat member options for {displayName}"
 msgstr "Open chat member options for {displayName}"
 
-#: src/screens/Messages/components/ChatListItem.tsx:486
-#: src/screens/Messages/components/ChatListItem.tsx:490
+#: src/screens/Messages/components/ChatListItem.tsx:488
+#: src/screens/Messages/components/ChatListItem.tsx:492
 msgid "Open conversation options"
 msgstr ""
 
@@ -11552,7 +11552,7 @@ msgstr "This chat has ended"
 msgid "This chat is full"
 msgstr "This chat is full"
 
-#: src/screens/Messages/components/ChatListItem.tsx:372
+#: src/screens/Messages/components/ChatListItem.tsx:374
 #: src/screens/Messages/components/ChatLocked.tsx:61
 msgid "This chat is locked"
 msgstr "This chat is locked"
@@ -11706,6 +11706,10 @@ msgstr ""
 #: src/screens/ProfileList/AboutSection.tsx:100
 msgid "This list is empty."
 msgstr ""
+
+#: src/screens/Messages/components/ChatListItem.tsx:335
+msgid "This message is hidden"
+msgstr "This message is hidden"
 
 #: src/components/dms/MessageItem.tsx:578
 #: src/components/dms/MessageItem.tsx:607
@@ -13729,7 +13733,7 @@ msgid "You won’t be able to rejoin unless you’re invited."
 msgstr "You won’t be able to rejoin unless you’re invited."
 
 #. When the last message in a chat was made by you.
-#: src/components/dms/getMessageInfo.ts:43
+#: src/components/dms/getMessageInfo.ts:46
 msgid "You: {message}"
 msgstr "You: {message}"
 
